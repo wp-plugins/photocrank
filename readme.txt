@@ -1,4 +1,4 @@
-=== PhotoCrank - rich media photo commenting ===
+=== PhotoCrank - Fun Photo Socializing ===
 Contributors: PhotoCrank.com
 Donate link:
 Tags: photos,images,comments,crank,photocrank,annotation,fun,social,plugin,user-generated,content,picture,photo.pictures,photo-albums,post,admin,media,gallery,images,slideshow,flash,flickr,picasa,politics,political,humor,sports,comedy,gossip,hollywood
@@ -31,7 +31,7 @@ Some features:
 **Steps for getting PhotoCrank Launched on your site**
 
 1. [Download now](http://downloads.wordpress.org/plugin/photocrank.zip)
-1. [Get a Member ID](http://www.photocrank.com/widgetchoice.aspx).  You need your PhotoCrank Member ID in order to manage the PhotoCrank Engine and moderate cranks that get submitted on your site.
+1. [Get a Member ID](http://www.photocrank.com/WidgetMaker.aspx).  You need your PhotoCrank Member ID in order to manage the PhotoCrank Engine and moderate cranks that get submitted on your site.
 1. Unzip the downloaded package and upload PhotoCrank.php into the *wp-content/plugins/* directory
 1. Log into your WordPress admin panel.
 1. Activate the plugin through the 'Plugins' menu in WordPress
