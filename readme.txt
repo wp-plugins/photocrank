@@ -1,10 +1,10 @@
-=== Plugin Name ===
+=== PhotoCrank - rich media photo commenting ===
 Contributors: PhotoCrank.com
 Donate link:
-Tags: photos,images,comments,crank,photocrank,annotation,fun,social,plugin,user-generated,content,picture,photo.pictures,photo-albums,post,admin,media,gallery,images,slideshow,flash,flickr,picasa
+Tags: photos,images,comments,crank,photocrank,annotation,fun,social,plugin,user-generated,content,picture,photo.pictures,photo-albums,post,admin,media,gallery,images,slideshow,flash,flickr,picasa,politics,political,humor,sports,comedy,gossip,hollywood
 Requires at least: 2.2
 Tested up to: 2.5.1
-Stable tag: 2.0.0.0
+Stable tag: 2.0.0
 
 Automatically makes the photos on your blog Crankable with graphics, word bubbles and captions.
 
@@ -12,7 +12,7 @@ Automatically makes the photos on your blog Crankable with graphics, word bubble
 
 **Makes your photos Crankable using the PhotoCrank platform**.
 
-Crank your photos up a notch by adding the PhotoCrank Engine to your blog.  With the PhotoCrank Engine you can instantly transform any photo or image that you post online into a very entertaining and engaging way for your visitors to interact with not only your website, but your other website visitors as well. They can do this by adding captions, images and text directly on top of any photo that once posted, everyone else can view and react to quickly and easily. We call each of these additions to the photos ‘Cranks’ and they will instantly bring your photos to life by making them more part of your website’s conversation.
+Crank your photos up a notch by adding the PhotoCrank Engine to your blog.  With the PhotoCrank Engine you can instantly transform any photo or image into a very entertaining and engaging way for your visitors to interact with not only your site, but your other site visitors as well. They can do this by adding captions, images and text directly on top of any photo that once posted, everyone else can view and react to quickly and easily. We call each of these additions to the photos 'Cranks' and they will instantly bring your photos to life by making them more part of your site's conversation.
 
 Some features:
 
@@ -20,7 +20,7 @@ Some features:
 * You can moderate each Crank that gets added to your website
 * Any visitor can Crank and view the Cranks on the photos on your website
 * Your visitors will return more frequently to view and Crank the photos on your website
-* Your website and Crank’d photos will be showcased on PhotoCrank.com
+* Your website and Crank'd photos will be showcased on [PhotoCrank.com](http://www.photocrank.com)
 * You can control which photos are crankable
 * You can choose who can crank photos
 * You can customize the graphics palette for your site
