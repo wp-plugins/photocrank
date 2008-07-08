@@ -4,7 +4,7 @@ Donate link:
 Tags: photos,images,comments,crank,photocrank,annotation,fun,social,plugin,user-generated,content,picture,photo.pictures,photo-albums,post,admin,media,gallery,images,slideshow,flash,flickr,picasa,politics,political,humor,sports,comedy,gossip,hollywood
 Requires at least: 2.2
 Tested up to: 2.5.1
-Stable tag: 2.0.0
+Stable tag: trunk
 
 Automatically makes the photos on your blog Crankable with graphics, word bubbles and captions.
 
@@ -31,14 +31,12 @@ Some features:
 **Steps for getting PhotoCrank Launched on your site**
 
 1. [Download now](http://downloads.wordpress.org/plugin/photocrank.zip)
-1. [Get a Member ID](http://www.photocrank.com/widgetchoice.aspx)
-
-
+1. [Get a Member ID](http://www.photocrank.com/widgetchoice.aspx).  You need your PhotoCrank Member ID in order to manage the PhotoCrank Engine and moderate cranks that get submitted on your site.
 1. Unzip the downloaded package and upload PhotoCrank.php into the *wp-content/plugins/* directory
 1. Log into your WordPress admin panel.
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Visit your PhotoCrank options (*Options - PhotoCrank*) for Wordpress 2.3.x, (*Settings - PhotoCrank*) for Wordpress 2.5.x 
-1. Enter your PhotoCrank Member Id through the 'Options' Tab > 'PhotoCrank' sub-tab. If you have not yet gotten your PhotoCrank Member ID, then simply visit the [PhotoCrank Website](http://www.photocrank.com/widgetchoice.aspx). You need your PhotoCrank Member ID in order to manage the PhotoCrank Engine and moderate cranks that get submitted on your site.
+1. Enter your PhotoCrank Member Id through the 'Options' Tab > 'PhotoCrank' sub-tab.
 
 
 == Great Recommendations ==
