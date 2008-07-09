@@ -1,7 +1,7 @@
-=== PhotoCrank - Fun Photo Socializing ===
+=== PhotoCrank - Social Photo Fun ===
 Contributors: PhotoCrank.com
 Donate link:
-Tags: photos,images,comments,crank,photocrank,annotation,fun,social,plugin,user-generated,content,picture,photo.pictures,photo-albums,post,admin,media,gallery,images,slideshow,flash,flickr,picasa,politics,political,humor,sports,comedy,gossip,hollywood
+Tags: admin,album,annotation,images,caption,captions,content,comment,comedy,comments,crank,cranks,photocrank,social,user-generated,picture,pictures,plugin,plugins,photo,photos,post,posts,media,gallery,gossip,hollywood,images,slideshow,flash,flickr,fun,picasa,politics,political,humor,sports,widget
 Requires at least: 2.2
 Tested up to: 2.5.1
 Stable tag: trunk
@@ -12,19 +12,30 @@ Automatically makes the photos on your blog Crankable with graphics, word bubble
 
 **Makes your photos Crankable using the PhotoCrank platform**.
 
+Popular Blogs that use this product:
+
+* [The Secret Diary of Steve Jobs](http://fakesteve.blogspot.com/2008/01/ta-very-much-now-hand-over-more-money.html)
+* [Crummy Church Signs](http://crummychurchsigns.blogspot.com/2008/07/errrwhat-was-i-saying-again.html)
+* [Total Diatribe](http://www.totaldiatribe.com/2008/06/27/photo-caption-contest-19/)
+
+
 Crank your photos up a notch by adding the PhotoCrank Engine to your blog.  With the PhotoCrank Engine you can instantly transform any photo or image into a very entertaining and engaging way for your visitors to interact with not only your site, but your other site visitors as well. They can do this by adding captions, images and text directly on top of any photo that once posted, everyone else can view and react to quickly and easily. We call each of these additions to the photos 'Cranks' and they will instantly bring your photos to life by making them more part of your site's conversation.
 
 Some features:
 
-* Your visitors will spend more time on your website
-* You can moderate each Crank that gets added to your website
+* You can moderate each Crank that gets added to your website photos
 * Any visitor can Crank and view the Cranks on the photos on your website
-* Your visitors will return more frequently to view and Crank the photos on your website
-* Your website and Crank'd photos will be showcased on [PhotoCrank.com](http://www.photocrank.com)
 * You can control which photos are crankable
 * You can choose who can crank photos
 * You can customize the graphics palette for your site
 
+
+Advantages:
+
+* Your visitors will spend more time on your website
+* Your visitors will return more frequently to view and Crank the photos on your website
+* Your website and Crank'd photos will be showcased on [PhotoCrank.com](http://www.photocrank.com)
+* All your crank'd photos get syndicated through-out the PhotoCrank network of blogs
 
 == Installation ==
 
@@ -37,19 +48,6 @@ Some features:
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Visit your PhotoCrank options (*Options - PhotoCrank*) for Wordpress 2.3.x, (*Settings - PhotoCrank*) for Wordpress 2.5.x 
 1. Enter your PhotoCrank Member Id through the 'Options' Tab > 'PhotoCrank' sub-tab.
-
-
-== Great Recommendations ==
-
-If you want to check-out what PhotoCrank does and how it would work on your site, please have a look at some of these popular sites that use PhotoCrank.  
-
-Look for the PhotoCrank buttons that appear on the bottom of the photos on these sites.
-
-
-* [The Secret Diary of Steve Jobs](http://fakesteve.blogspot.com/2008/01/ta-very-much-now-hand-over-more-money.html)
-* [Crummy Church Signs](http://crummychurchsigns.blogspot.com/2008/07/errrwhat-was-i-saying-again.html)
-* [Total Diatribe](http://www.totaldiatribe.com/2008/06/27/photo-caption-contest-19/)
-
 
 
 == Screenshots ==
