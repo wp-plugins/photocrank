@@ -119,11 +119,23 @@ function pc_photocrank()
 		<h2>PhotoCrank Settings</h2>
 		
 		<form action="options-general.php?page=photocrank" method="post">
-			Member ID:<br />
+			<br/><br/>Member ID: (If you still need a Member ID <a href="http://www.photocrank.com/wpmemberid.aspx" target="_blank">Click Here</a>)<br />
 			<input type="text" name="memberid" value="<?=$pc_memberid?>" size="45" /><br /><br />
 			<input type="submit" name="pcsubmit" value="Update" />
 		</form>
-		
+	
+    <br/><br/>FAQs <a href="http://www.photocrank.com/widget/quickcrank/faq.aspx" target="_blank">Click Here</a>)<br />
+<?php
+if($pc_memberid)	
+	{
+	?>
+<br/><br/>
+Manage and customize all your PhotoCrank settings <a href="http://www.photocrank.com/widget/quickcrank/customize.aspx?wid=<?=$pc_memberid?>" target="_blank">here</a>
+
+	<?php
+	}
+	
+?>
 	</div>
 	<?php
 }
